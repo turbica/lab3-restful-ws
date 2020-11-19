@@ -67,4 +67,8 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 761754 |[David Alloza](https://github.com/david-AT) | [david-AT/lab3-restful-ws](https://github.com/david-AT/lab3-restful-ws/tree/test) |![Build Status](https://travis-ci.com/david-AT/lab3-restful-ws.svg?branch=test)|             |
 | 739324 |[Elena Morón Vidal](https://github.com/elenamv13) | [elenamv13/lab3-restful-wsl](https://github.com/elenamv13/lab3-restful-ws/tree/test)|![Build Status](https://travis-ci.com/elenamv13/lab3-restful-ws.svg?branch=test)| | |
 | 756308 |[Álvaro Santamaría](https://github.com/SanTa45zgz)|[SanTa45zgz/lab3-restful-ws](https://github.com/SanTa45zgz/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/SanTa45zgz/lab3-restful-ws.svg?branch=test)|  |
+| 719974 |[Sergio Martínez](https://github.com/Sergio-Martinez-97)|[Sergio-Martinez-97/lab3-restful-ws](https://github.com/Sergio-Martinez-97/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/Sergio-Martinez-97/lab3-restful-ws.svg?branch=test)|  |
+| 738845 |[Víctor Martínez](https://github.com/viriannn)|[viriannn/lab3-restful-ws](https://github.com/viriannn/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/viriannn/lab3-restful-ws.svg?branch=test)|  |
+| 758635 |[Daniel Huici Meseguer](https://github.com/Kifixo)|[Kifixo/lab3-restful-ws](https://github.com/Kifixo/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/Kifixo/lab3-restful-ws.svg?branch=test)|  |
 | 757755 |[Andrés Otero García](https://github.com/andrewknoll) | [andrewknoll/lab3-restful-ws](https://github.com/andrewknoll/lab3-restful-ws/tree/test) |![Build Status](https://travis-ci.com/andrewknoll/lab3-restful-ws.svg?branch=test)|             |
+
