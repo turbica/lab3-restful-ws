@@ -17,6 +17,7 @@ import javax.ws.rs.core.UriInfo;
 import rest.addressbook.domain.AddressBook;
 import rest.addressbook.domain.Person;
 
+
 /**
  * A service that manipulates contacts in an address book.
  */

@@ -1,8 +1,6 @@
 package rest.addressbook;
 
 import static org.junit.Assert.assertEquals;
-
-
 import java.io.IOException;
 import java.net.URI;
 import javax.ws.rs.client.Client;
