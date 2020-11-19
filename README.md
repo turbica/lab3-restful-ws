@@ -30,12 +30,9 @@ Done:
 - [CORS support](https://github.com/UNIZAR-30246-WebEngineering/lab3-restful-ws/pull/12) was implemented by Alvaro García on the original Jakarta Jersey implementation. His PR is explains how CORS works very clearly. Worth read :gift:
 - [Use JWT credentials to grant access to requests](https://github.com/UNIZAR-30246-WebEngineering/lab3-restful-ws/pull/14) was implemented by Alberto Calvo on the original Jakarta Jersey implementation. How JWT support is implemented in framework may differ. For example, Spring Framework requires the use of a Filter in order to integrate JWT with Spring Security. However Jakarta Jersey is more clean and the implementation of Alberto makes easier to understand how JWT works on the server side :gift:
 
-In progress:
-
-- Support of OpenAPI 3.0
-
 Proposed:
 
+- Support of OpenAPI 3.0
 - Replace the current implementation (Jakarta Jersey) by a [Spring WebFlux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html#spring-webflux) (Reactive) implementation
 - Support asynchronous requests without using Spring WebFlux 
 - Support of HTTP/2 requests 
@@ -49,7 +46,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 
 | NIA    | User name | Repo | Build Status | Improvement | Score
 |--------|-----------|------|--------------|-------------|--------
-| 740491 |[José Ignacio Hernández](https://github.com/740491)|[740491/lab3-restful-ws](https://github.com/740491/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/740491/lab3-restful-ws.svg?branch=test)| Trying support of OpenAPI 3.0 |
+| 740491 |[José Ignacio Hernández](https://github.com/740491)|[740491/lab3-restful-ws](https://github.com/740491/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/740491/lab3-restful-ws.svg?branch=test)|  |
 | 758803 |[Daniel González](https://github.com/Uncastellum/)|[Uncastellum/lab3-restful-ws](https://github.com/Uncastellum/lab3-restful-ws/tree/test)|![Build Status](https://travis-ci.com/Uncastellum/lab3-restful-ws.svg?branch=test)|                      |
 | 758906 |[Raúl Javierre](https://github.com/rauljavierre/)|[rauljavierre/lab3-restful-ws](https://github.com/rauljavierre/lab3-restful-ws/tree/test)|![Build Status](https://travis-ci.com/rauljavierre/lab3-restful-ws.svg?branch=test)| Trying to reimplement with Spring MVC | :gift:                     |
 | 757153 |[Fran-sw](https://github.com/Fran-sw) |[lab3-restful-ws](https://github.com/Fran-sw/lab3-restful-ws/tree/test)|[![Build Status](https://travis-ci.com/Fran-sw/lab3-restful-ws.svg)](https://travis-ci.com/Fran-sw/lab3-restful-ws)       | |                      |
@@ -70,5 +67,7 @@ If you desist of your goal, release it by a PR so other fellow can try it.
 | 719974 |[Sergio Martínez](https://github.com/Sergio-Martinez-97)|[Sergio-Martinez-97/lab3-restful-ws](https://github.com/Sergio-Martinez-97/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/Sergio-Martinez-97/lab3-restful-ws.svg?branch=test)|  |
 | 738845 |[Víctor Martínez](https://github.com/viriannn)|[viriannn/lab3-restful-ws](https://github.com/viriannn/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/viriannn/lab3-restful-ws.svg?branch=test)|  |
 | 758635 |[Daniel Huici Meseguer](https://github.com/Kifixo)|[Kifixo/lab3-restful-ws](https://github.com/Kifixo/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/Kifixo/lab3-restful-ws.svg?branch=test)|  |
+| 740241 |[Sergio Álvarez](https://github.com/sergio-alv)|[sergio-alv/lab3-restful-ws](https://github.com/sergio-alv/lab3-restful-ws/tree/test)| ![Build Status](https://api.travis-ci.org/sergio-alv/lab3-restful-ws.svg?branch=test) | |
+| 737070 |[Daniel Barceló](https://github.com/DaniBarcelo) |[DaniBarcelo/lab3-restful-ws](https://github.com/DaniBarcelo/lab3-restful-ws/tree/test)|[![Build Status](https://travis-ci.com/DaniBarcelo/lab3-restful-ws.svg)](https://travis-ci.com/DaniBarcelo/lab3-restful-ws) | | |
 | 757715 |[Hayk Kocharyan](https://github.com/hayk99)|[hayk99/lab3-restful-ws](https://github.com/hayk99/lab3-restful-ws/tree/test)| ![Build Status](https://travis-ci.com/hayk99/lab3-restful-ws.svg?branch=test)|  |
-
+| 757755 |[Andrés Otero García](https://github.com/andrewknoll) | [andrewknoll/lab3-restful-ws](https://github.com/andrewknoll/lab3-restful-ws/tree/test) |![Build Status](https://travis-ci.com/andrewknoll/lab3-restful-ws.svg?branch=test)|             |
